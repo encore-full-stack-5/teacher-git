@@ -7,4 +7,7 @@ git branch psm
 git switch psm
 git branch
 
-
+git add .
+git commit -m "hi"
+git push
+git push --set-upstream origin psm
